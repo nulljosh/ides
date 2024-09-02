@@ -9,4 +9,11 @@ help
 apply
 wait
 
+dev
+---
+
+```
+yarn run
+```
+
 &copy; 2024
