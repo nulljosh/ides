@@ -14,6 +14,7 @@ dev
 
 ```
 yarn run
+ngrok http 1337 # port forwarding
 ```
 
 [&copy; 2024 ides](LICENSE)
