@@ -16,4 +16,4 @@ dev
 yarn run
 ```
 
-&copy; 2024
+[&copy; 2024 ides](LICENSE)
